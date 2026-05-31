@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycncrypt",
+        "uuid": 2512512,
+        "checksum": "tmltcd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
